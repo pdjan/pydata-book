@@ -17,7 +17,7 @@ Ukoliko čitate prvo izdanje [1st Edition][1] (objavljeno 2012. godine), pređit
 
 * [Kineski][3] prevod Xu Liang
 * [Poljski][4] prevod Michal Biesiada
-* [Srpski][5] prevod Predrag Nikolić
+* [Srpski][5] prevod Predrag Nikolić [Tviter](https://twitter.com/koder)
 
 ## IPython Notebooks:
 
@@ -48,3 +48,4 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 [2]: https://github.com/wesm/pydata-book/tree/1st-edition
 [3]: https://github.com/BrambleXu/pydata-notebook
 [4]: https://github.com/mbiesiad/pydata-book/tree/pl_PL
+[5]: https://github.com/pdjan/pydata-book
