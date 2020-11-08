@@ -21,20 +21,20 @@ Ukoliko čitate prvo izdanje [1st Edition][1] (objavljeno 2012. godine), pređit
 
 ## IPython Notebooks:
 
-* [Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch02.ipynb)
-* [Chapter 3: Built-in Data Structures, Functions, and Files](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch03.ipynb)
-* [Chapter 4: NumPy Basics: Arrays and Vectorized Computation](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch04.ipynb)
-* [Chapter 5: Getting Started with pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch05.ipynb)
-* [Chapter 6: Data Loading, Storage, and File Formats](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch06.ipynb)
-* [Chapter 7: Data Cleaning and Preparation](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch07.ipynb)
-* [Chapter 8: Data Wrangling: Join, Combine, and Reshape](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch08.ipynb)
-* [Chapter 9: Plotting and Visualization](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch09.ipynb)
-* [Chapter 10: Data Aggregation and Group Operations](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch10.ipynb)
-* [Chapter 11: Time Series](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch11.ipynb)
-* [Chapter 12: Advanced pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch12.ipynb)
-* [Chapter 13: Introduction to Modeling Libraries in Python](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch13.ipynb)
-* [Chapter 14: Data Analysis Examples](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch14.ipynb)
-* [Appendix A: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/appa.ipynb)
+* [Poglavlje 2: Osnove pajton jezika, IPython i Jupyter sveske](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch02.ipynb)
+* [Poglavlje 3: Osnovne strukture podataka, funkcije i fajlovi](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch03.ipynb)
+* [Poglavlje 4: NumPy osnove: Nizovi i izračunavanje vektora](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch04.ipynb)
+* [Poglavlje 5: Osnovni koraci sa pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch05.ipynb)
+* [Poglavlje 6: Učitavanje podataka, skladištenje i formati fajlova](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch05.ipynb)
+* [Poglavlje 7: Čišćenje podataka i priprema](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch07.ipynb)
+* [Poglavlje 8: Upotreba podataka: Join, Combine, and Reshape](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch08.ipynb)
+* [Poglavlje 9: Mapiranje i vizuelizacija](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch09.ipynb)
+* [Poglavlje 10: Agregacija podataka i operacije sa grupama](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch10.ipynb)
+* [Poglavlje 11: Time Series](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch11.ipynb)
+* [Poglavlje 12: Napredna upotreba pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch12.ipynb)
+* [Poglavlje 13: Uvod u biblioteke modeliranja u pajtonu](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch13.ipynb)
+* [Poglavlje 14: Primeri analize podataka](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch14.ipynb)
+* [Dodatak A: Napredni NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/appa.ipynb)
 
 ## License
 
