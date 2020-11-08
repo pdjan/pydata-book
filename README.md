@@ -1,23 +1,23 @@
-# Python for Data Analysis, 2nd Edition
+# Analiza podataka u pajtonu, drugo izdanje
 
-Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney,
-published by O'Reilly Media
+Materjali i IPython sveske za knjigu "Analiza podataka u pajtonu", autor Ves Mekini
+izdata kod O'Reilly Media
 
-[Buy the book on Amazon][1]
+[Kupite knjigu na Amazon-u][1]
 
 <a href="https://notebooks.azure.com/import/gh/wesm/pydata-book"><img src="https://notebooks.azure.com/launch.png" /></a>
 
-Follow Wes on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/wesmckinn.svg?style=social&label=Follow)](https://twitter.com/wesmckinn)
+Pratite Ves-a na Tviteru [![Twitter Follow](https://img.shields.io/twitter/follow/wesmckinn.svg?style=social&label=Follow)](https://twitter.com/wesmckinn)
 
-# 1st Edition Readers
+# Čitaoci prvog izdanja
 
-If you are reading the [1st Edition][1] (published in 2012), please find the
-reorganized book materials on the [`1st-edition` branch][2].
+Ukoliko čitate prvo izdanje [1st Edition][1] (objavljeno 2012. godine), pređite na ovu verziju materijala [`1st-edition` branch][2].
 
-# Translations
+# Prevodi
 
-* [Chinese][3] by Xu Liang
-* [Polish][4] by Michal Biesiada
+* [Kineski][3] prevod Xu Liang
+* [Poljski][4] prevod Michal Biesiada
+* [Srpski][5] prevod Predrag Nikolić
 
 ## IPython Notebooks:
 
